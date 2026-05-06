@@ -25,8 +25,6 @@ java -jar target/sreapp-0.0.1-SNAPSHOT.jar
 
 Backend will start on **http://localhost:9090**
 
----
-
 ## Test CRUD Endpoints
 
 ### Create a Book
@@ -58,8 +56,6 @@ curl -X PUT http://localhost:9090/api/books/1 \
 curl -X DELETE http://localhost:9090/api/books/1
 ```
 
----
-
 ## Frontend Setup (React)
 
 ### Install Node.js & npm
@@ -86,8 +82,6 @@ npm start
 
 Frontend will start on **http://localhost:3000**
 
----
-
 ## Project Structure
 
 ```
@@ -101,15 +95,11 @@ full-stack-app1/
     └── package.json
 ```
 
----
-
 ## Features
 - Full CRUD API with Spring Boot (Books resource).
 - React frontend.
 - REST endpoints tested via `curl`.
 - Clean separation of backend and frontend.
-
----
 
 ## License
 Demo project for learning purposes.  
