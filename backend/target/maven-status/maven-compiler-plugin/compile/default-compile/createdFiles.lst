@@ -1,0 +1,6 @@
+com/example/sreapp/config/CorsConfig.class
+com/example/sreapp/config/CorsConfig$1.class
+com/example/sreapp/SreAppApplication.class
+com/example/sreapp/repository/BookRepository.class
+com/example/sreapp/controller/BookController.class
+com/example/sreapp/model/Book.class

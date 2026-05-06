@@ -1,0 +1,5 @@
+/home/prayag/sre-crud-app/backend/src/main/java/com/example/sreapp/SreAppApplication.java
+/home/prayag/sre-crud-app/backend/src/main/java/com/example/sreapp/config/CorsConfig.java
+/home/prayag/sre-crud-app/backend/src/main/java/com/example/sreapp/repository/BookRepository.java
+/home/prayag/sre-crud-app/backend/src/main/java/com/example/sreapp/model/Book.java
+/home/prayag/sre-crud-app/backend/src/main/java/com/example/sreapp/controller/BookController.java
