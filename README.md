@@ -105,7 +105,7 @@ full-stack-app1/
 
 ---
 
-## ⚡ Features
+## Features
 - Full CRUD API with Spring Boot (Books resource).
 - React frontend.
 - REST endpoints tested via `curl`.
@@ -116,4 +116,4 @@ full-stack-app1/
 ## License
 Demo project for learning purposes.  
 © RootPromptNext — [learning.rootpromtpnext.com](https://learning.rootpromtpnext.com)
-```
+
