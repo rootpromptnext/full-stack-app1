@@ -3,8 +3,6 @@
 A full‑stack CRUD application built with **Spring Boot (Java)** for the backend and **React (Node.js)** for the frontend.  
 This demo manages a list of books with Create, Read, Update, and Delete functionality.
 
----
-
 ## Backend Setup (Spring Boot)
 
 ### Install Maven & JDK 21
